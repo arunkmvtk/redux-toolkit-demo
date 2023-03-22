@@ -8,3 +8,14 @@ header .container{
     justify-content: space-between;
     align-items: center;
 }
+header .cart-count{
+    width: 20px;
+    height: 20px;
+    font-size: 12px;
+    display: flex;
+    justify-content: center; /*horizontal center */
+    align-items: center;  /*vertical center */
+    background-color: #ff398f;
+    border-radius: 50px;
+    position: absolute;
+}
